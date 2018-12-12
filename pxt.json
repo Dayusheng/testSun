@@ -1,0 +1,18 @@
+{
+    "name": "testSun",
+    "version": "0.0.0",
+    "description": "just test",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "README.md",
+        "testSun.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": false,
+    "license": "none"
+}
